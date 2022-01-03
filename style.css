@@ -8,7 +8,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 header{
-    background-image:linear-gradient(rgba(155, 65, 24, 0.884), rgba(161, 73, 46, 0.253)), url(./images/bg2.jpg);
+    background-image:linear-gradient(rgba(155, 66, 24, 0.952), rgba(46, 161, 56, 0.671)), url(./images/bg2.jpg);
     background-size: cover;
 
 }
